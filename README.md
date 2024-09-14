@@ -15,7 +15,7 @@ bash
 Copiar código
 pip install ttkbootstrap google-generativeai
 Configuração da API
-Para usar a API do Google Gemini, você precisa de uma chave de API. Substitua "AIzaSyD9yqrdv7MCM-P8zo3owQ88LNcdnwabeEE" pelo seu próprio api_key no código.
+Para usar a API do Google Gemini, você precisa de uma chave de API. Substitua.
 
 Como Executar
 Clone este repositório para o seu ambiente local:
